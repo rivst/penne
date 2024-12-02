@@ -1,8 +1,7 @@
 # penne
 
 [![GitHub license](https://img.shields.io/github/license/rivst/penne.svg)](https://github.com/rivst/penne/blob/main/LICENSE)
-![Free as in freedom. Free as in beer](https://img.shields.io/badge/price-%240-brightgreen)
-[![GitHub Release](https://img.shields.io/github/v/release/rivst/penne)](https://github.com/rivst/penne/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/rivst/penne.svg)](https://github.com/rivst/penne/releases)
 
 > Simple server-side encrypted pastebin with optional client-side zero-knowledge encryption.
 
